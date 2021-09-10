@@ -10,4 +10,4 @@
 
 5. javascript will be the core language which I'll be focusing on doing fun projects on client side.
 
-6. start this changes mow
+6. How to become really good at something ( Practicing day night )
